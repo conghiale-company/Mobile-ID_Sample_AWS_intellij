@@ -1,0 +1,20 @@
+2024-10-14 14:09:10 DEBUG org.example.Function - getAwsConfig:143 - Configuration parameters loaded successfully
+2024-10-14 14:09:10 DEBUG org.example.Main2 - login:136 - Logging...
+2024-10-14 14:09:11 DEBUG org.example.Main2 - login:149 - Login successful
+2024-10-14 14:09:11 DEBUG org.example.Main2 - login:156 - Heartbeat monitor started...
+2024-10-14 14:09:11 DEBUG org.example.Main2 - handleLoadData:186 - Reading file into ram...
+2024-10-14 14:09:11 DEBUG org.example.Main2 - handleLoadData:215 - Loaded 99 tax code from 0
+2024-10-14 14:09:11 DEBUG org.example.Main2 - getInfoDN:268 - Retrieving business information... 
+2024-10-14 14:09:11 DEBUG org.example.Main2 - handleActionGetDN:296 - Retrieving business information with tax code 2001355111
+2024-10-14 14:09:11 DEBUG org.example.Main2 - handleActionGetDN:318 - posStartPage: 0 --- posEndPage: 98 --- status: 0 --- mess: SUCCESSFULLY --- index: 0
+2024-10-14 14:09:11 INFO  org.example.Main2 - handleActionGetDN:323 - INDEX = 0 -- MST = 2001355111
+2024-10-14 14:09:11 DEBUG org.example.Main2 - logInfo:462 - startDay: 2024-10-14 14:09:11
+2024-10-14 14:09:11 DEBUG org.example.Main2 - logInfo:463 - endDay: 2024-10-14 14:09:11
+2024-10-14 14:09:12 DEBUG org.example.Main2 - logInfo:464 - sumNumberTaxCode: 1
+2024-10-14 14:09:12 DEBUG org.example.Main2 - logInfo:465 - sumNumberSuccessfully: 1
+2024-10-14 14:09:12 DEBUG org.example.Main2 - logInfo:466 - sumNumberErrors: 0
+2024-10-14 14:09:12 DEBUG org.example.Main2 - logInfo:467 - sumNumberNotFound: 0
+2024-10-14 14:09:12 DEBUG org.example.Main2 - logInfo:468 - sumNumberParameterIsInvalid: 0
+2024-10-14 14:09:12 DEBUG org.example.Main2 - logInfo:470 - sumNumberCaptchaInvalid: 0
+2024-10-14 14:09:12 DEBUG org.example.Main2 - logInfo:471 - sumNumberUnknownException: 0
+2024-10-14 14:09:12 DEBUG org.example.Main2 - logInfo:472 - sumNumberDataResponseIsNull: 0
